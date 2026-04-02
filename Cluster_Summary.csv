@@ -1,0 +1,6 @@
+Cluster,Avg_Age,Avg_Annual_Income_k,Avg_Spending_Score,Customer_Count,Segment_Name
+0,46.25,26.75,18.35,20,"Budget-Conscious, Conservative Spenders"
+1,25.19,41.09,62.24,54,"Moderate Earners, Balanced Spenders"
+2,32.88,86.1,81.53,40,"High Earners, Active Spenders"
+3,39.87,86.1,19.36,39,"High Earners, Conservative Spenders"
+4,55.64,54.38,48.85,47,"Moderate Earners, Balanced Spenders"
